@@ -1,2 +1,2 @@
 # jarvis
-my best friend
+my best friend, AI chatbot
